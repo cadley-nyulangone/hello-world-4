@@ -9,4 +9,6 @@ this line created on linux
 
 yet another line
 
-stil another
+still another
+
+fixed a typo
